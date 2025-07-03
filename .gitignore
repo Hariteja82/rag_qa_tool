@@ -1,0 +1,4 @@
+.venv/
+.env
+.flake8
+chroma_db/
