@@ -1,0 +1,13 @@
+Room Number = 1005
+
+Room Members:
+1. Manikanta
+2. Narsimha
+3. Hari
+4. Murali
+
+Skills
+1. Manikanta = Python, AI, Django
+2. Narsimha = Python, Java, Django
+3. Hari = Python, swaggi
+4. Murali = Python, Laptop
